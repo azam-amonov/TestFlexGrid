@@ -5,8 +5,10 @@
 
 ![testflexgrid](https://github.com/user-attachments/assets/4055e686-a2f6-48f0-b68d-06c44d6f1d2c)
 
+## FlexGrid Designer Error!
+- While working with designer if we open grid designer and cancel editing designer add new column by its own. But if we close view with X button nothing happen.
 
-https://github.com/user-attachments/assets/1aa13e37-c296-44dd-813b-185e70730662
+https://github.com/user-attachments/assets/4c3c5dd0-6efb-4379-b982-76af727f4c4e
 
 
 

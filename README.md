@@ -10,7 +10,8 @@
 
 https://github.com/user-attachments/assets/4c3c5dd0-6efb-4379-b982-76af727f4c4e
 
-
+## Header Error!
+- When we delete new columns which is designer add, we lost header captions. To return them we should enter to c1FlexGrid Banded View press to edit and save again.
 
 https://github.com/user-attachments/assets/f7f1f15a-11e6-4c11-9aa3-21474f9a6033
 

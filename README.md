@@ -16,7 +16,7 @@ https://github.com/user-attachments/assets/4c3c5dd0-6efb-4379-b982-76af727f4c4e
 https://github.com/user-attachments/assets/f7f1f15a-11e6-4c11-9aa3-21474f9a6033
 
 ## Header Dragging Error!
-- Когда мы запускаем наш проект и в форме перетаскиваем заголовок, название заголовка меняется, но данные столбцов нет. Это означает, что мы потеряли правильные данные в представлении.
+- When we run our project and drag a header in the form, the header name changes but the column data does not. This means we have lost the correct data in the view.
 
 https://github.com/user-attachments/assets/3374ccc3-23af-4e08-9911-d52fd05be924
 
